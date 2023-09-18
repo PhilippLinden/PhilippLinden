@@ -2,7 +2,7 @@
 
 My name is Philipp Linden and I completed my PhD in Social Sciences in early 2023. Currently I am a researcher at the Fulda University of Applied Science (Germany) in the research project [Parenthealth: On the effects of parenthood on health behaviour](https://parenthealth.github.io/). My research focuses on comparative welfare and health systems research, sociology and demography of health, disease and burden of disease. I rely mostly on quantitative research methods and data for my empirical analyses.
 
-While I've focused on [Stata](https://www.stata.com/) so far, I'm now starting to get familiar with [R](https://www.r-project.org/), Tableau and linking them to [GitHub](https://github.com/). Outside of my research, I keep busy with my two _"little"_ dogs and nerdy things like (board) gaming, comics and reading fiction. 
+While I've focused on [Stata](https://www.stata.com/) so far, I'm now starting to get familiar with [R](https://www.r-project.org/), Tableau and linking them to [GitHub](https://github.com/). Outside of my research, I keep busy with my in fact little daughter, two _"little"_ dogs and nerdy things like (board) gaming, comics and reading fiction. 
 
 <!--
 **PhilippLinden/PhilippLinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
